@@ -2,8 +2,7 @@
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&center=true&vCenter=true&width=800&lines=Hello%2C+I%27m+GYEONG+BIN!" />
   </p>
-
-  <br/>
+<hr style="width:70%; margin: 30px auto;" />
 
   <p>
     <a href="https://crystal-scribe-8e8.notion.site/1e0b6e53419b80c8a8f7f9b8a811965d?pvs=74" target="_blank">
@@ -24,7 +23,11 @@
   <a href="https://github.com/rudqlsdla">
    <img src="https://github-readme-stats-fast.vercel.app/api?username=rudqlsdla&theme=tokyonight&hide=issues,contribs" />
   </a>
-  &nbsp;&nbsp;
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/rudqlsdla">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rudqlsdla&layout=compact&theme=tokyonight" />
   </a>
